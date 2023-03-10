@@ -393,9 +393,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       link = "https://www.luc.edu/math/index.shtml"
 
 
-  #[[params.clients]]
-      #logo = "chicago_ASA.jpg"
-      #link = "https://community.amstat.org/chicagochapter/home"
+  [[params.clients]]
+      logo = "chicago_ASA.jpg"
+      link = "https://community.amstat.org/chicagochapter/home"
 
   [[params.clients]]
       logo = "WIST_logo.png"
