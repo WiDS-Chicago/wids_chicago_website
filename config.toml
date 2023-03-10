@@ -401,7 +401,9 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       logo = "WIST_logo.png"
       link = "https://www.statistics.northwestern.edu/research/women-in-statistics/"
 
-
+      [[params.clients]]
+      logo = "burtchworks.png"
+      link = "https://www.burtchworks.com/"
 
 
 
