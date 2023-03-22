@@ -104,19 +104,19 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       icon = "fa-clock-o"
       title = "Details"
       description = "Friday, March 24, 5:00-8:30 PM CDT"
-      url = "#"
+      url = "#schedule"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Location"
       description = "Roosevelt University, 430 S. Michigan Ave."
-    #  url = "https://widschicago.org/#hackathon"
+      url = "https://goo.gl/maps/Girh4szqHrUH7Dzg9"
 
     [[params.services.row.list]]
       icon = "fa-universal-access"
       title = "Networking"
       description = "Opportunity to expand your professional network"
-      url = "https://widschicago.org/#schedule"
+      url = "https://widschicago.org/#team"
 
     [[params.services.row]]
 
@@ -124,7 +124,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       icon = "fa-graduation-cap"
       title = "Learning"
       description = "Gain knowledge from your peers and experienced professionals"
-      url = "https://widschicago.org/#team"
+      url = "https://widschicago.org/#schedule"
 
     [[params.services.row.list]]
       icon = "fa-money"
