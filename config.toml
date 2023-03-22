@@ -103,13 +103,13 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "Friday, March 24, 5:00-8:30 PM CST"
+      description = "Friday, March 24, 5:00-8:30 PM CDT"
       url = "#"
 
-    #[[params.services.row.list]]
-    #  icon = "fa-laptop"
-    #  title = "Hands on"
-    #  description = "Participate in a Datathon-- creating models to predict building energy consumption"
+    [[params.services.row.list]]
+      icon = "fa-laptop"
+      title = "Location"
+      description = "Roosevelt University, 430 S. Michigan Ave."
     #  url = "https://widschicago.org/#hackathon"
 
     [[params.services.row.list]]
