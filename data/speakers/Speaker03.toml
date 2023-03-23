@@ -1,6 +1,6 @@
 img = "headshot_NL.jpg"
 name = "Ningzi Li"
-organisation = "UChicago Data Science Institute"
+organisation = "University of Chicago Data Science Institute"
 role = "Postdoctoral Scholar"
 social = [
         ["fa-linkedin", "https://www.linkedin.com/in/ningzi-li-72287542/"]
