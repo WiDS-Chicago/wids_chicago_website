@@ -320,18 +320,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
 
 
-
-      [[params.team.members]]
-      img = "devanshi_verma.jpg"
-      name = "Devanshi Verma"
-      position = "WiDS Ambassador"
-      # For bio markdown and even multiline strings are available.
-      bio = """Data Scientist <br/> CVS Health"""
-      social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/devanshiverma/"],
-        ["fa-github", "https://thisisdevanshi.github.io/"]
-      ]
-
       [[params.team.members]]
       img = "maggie_wolff.jfif"
       name = "Maggie Wolff"
@@ -339,7 +327,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # For bio markdown and even multiline strings are available.
       bio = """Data Scientist <br/> Egencia"""
       social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/magwolff/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/magwolff/"], 
+        ["fa-globe", "https://maggiewolff.github.io/"]
       ]
 
 
