@@ -1,7 +1,0 @@
-img = "kristian_headshot.jpg"
-name = "Kristian Lum"
-organisation = "University of Chicago Data Science Institute"
-role = " "
-social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/kristian-lum-01365055/"]
-      ]
