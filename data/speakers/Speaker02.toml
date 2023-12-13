@@ -1,7 +1,7 @@
-img = "speaker-placeholder.jpg"
-name = "Coming Soon"
-organisation = ""
-role = ""
+img = "Jayashree_Venkatesh.jpg"
+name = "Jayashree	Venkatesh"
+organisation = "Datametica"
+role = "Director, Cloud Migrations"
 social = [
-        ["fa-linkedin", ""]
-      ]
+        ["fa-linkedin", "https://www.linkedin.com/in/jayashree-venkatesh-3909421/"]
+     ]
