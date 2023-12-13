@@ -154,7 +154,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     title = "Register"
     subtitle = "Coming Soon"
     bg = true
-    eid = "535999477867"
+    eid = ""
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB
       # Follow instructions to discover your 'Website Integration' embeddable iframe
       # Take ONLY the numeric string between "eid=" and "&ref=etckt"
@@ -288,7 +288,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
 
+      [[params.team.members]]
+      img = "angelina_leigh.jpg"
+      name = "Angelina Leigh"
+      position = "WiDS Ambassador, Chicago Event Chair"
+      bio = """Solutions Architect <br/> Databricks"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
 
+      ]
     [[params.team.members]]
       img = "Natalie_Rubenstein.jpg"
       name = "Natalie Rubenstein"
@@ -308,24 +316,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
 
 
-
-      [[params.team.members]]
-      img = "angelina_leigh.jpg"
-      name = "Angelina Leigh"
-      position = "WiDS Ambassador"
-      bio = """Data Scientist <br/> Hitachi Solutions"""
-      social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
-
-      ]
-
-
       [[params.team.members]]
       img = "maggie_wolff.jfif"
       name = "Maggie Wolff"
       position = "WiDS Ambassador"
       # For bio markdown and even multiline strings are available.
-      bio = """Data Scientist <br/> Egencia"""
+      bio = """Data Scientist <br/> Amex GBT Egencia"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/magwolff/"], 
         ["fa-globe", "https://maggiewolff.github.io/"]
