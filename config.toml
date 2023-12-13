@@ -77,8 +77,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     #  weight = 10
 
     [[menu.postpend]]
-      url = "http://widsconference.org/"
-      name = "widsconference.org"
+      url = "https://www.widsworldwide.org/"
+      name = "widsworldwide.org"
       weight = 10
 
 
@@ -87,7 +87,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Women in Data Science Chicago"
-    subtitle = "A conference showcasing women data scientists in Chicago on Friday, March 24th"
+    subtitle = "A conference showcasing women data scientists in Chicago in March 2024"
     bg = true
     buttonText = "Tell me more"
 
@@ -103,14 +103,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "Friday, March 24, 5:00-8:30 PM CDT"
+      description = "March 2024 - exact date TBD"
       url = "#schedule"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Location"
-      description = "Roosevelt University, 430 S. Michigan Ave."
-      url = "https://goo.gl/maps/Girh4szqHrUH7Dzg9"
+      description = "Downtown Chicago - exact location TBD"
+      url = ""
 
     [[params.services.row.list]]
       icon = "fa-universal-access"
@@ -152,7 +152,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.eventbrite]
     enable = true
     title = "Register"
-    subtitle = "WiDS Chicago on 3/24"
+    subtitle = "Coming Soon"
     bg = true
     eid = "535999477867"
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB
@@ -437,7 +437,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     email = "menawhalen@gmail.com"
 
     # Success and error message overwrite for async contact form
-    thanks = "Thank you for awesomely contacting WiDS Chicago."
+    thanks = "Thank you for contacting WiDS Chicago."
     error = "Message could not be send. Please contact us at menawhalen@gmail.com instead."
 
     [params.contact.captcha]
