@@ -1,7 +1,7 @@
 img = "speaker-placeholder.jpg"
-name = "Elena Kelsh"
-organisation = "Chicago Blackhawks"
-role = "Manager Analytics "
+name = "Coming Soon"
+organisation = ""
+role = ""
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/elena-kelsh-62040799/"]
+        ["fa-linkedin", ""]
       ]
