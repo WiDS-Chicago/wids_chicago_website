@@ -1,7 +1,7 @@
-img = "headshot_NL.jpg"
-name = "Ningzi Li"
-organisation = "University of Chicago Data Science Institute"
-role = "Postdoctoral Scholar"
+img = "speaker-placeholder.jpg"
+name = "Coming Soon"
+organisation = ""
+role = ""
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/ningzi-li-72287542/"]
+        ["fa-linkedin", ""]
       ]
