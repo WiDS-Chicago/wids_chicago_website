@@ -1,8 +1,7 @@
-img = "SvetlanaLevitan.jpg"
-name = "Svetlana Levitan"
-organisation = "Walgreens Boots Alliance"
-role = "Principal Algorithms and Machine Learning Scientist"
+img = "speaker-placeholder.jpg"
+name = "Coming Soon"
+organisation = ""
+role = ""
 social = [
-#        ["fa-globe", " "],
-        ["fa-linkedin", "https://www.linkedin.com/in/svetlanalevitan/"]
+        ["fa-linkedin", ""]
       ]
