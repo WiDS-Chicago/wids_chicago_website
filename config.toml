@@ -298,6 +298,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
       ]
     [[params.team.members]]
+      img = "ke_ji.jpg"
+      name = "Ke Ji"
+      position = "WiDS Ambassador"
+      bio = """Principal Data Scientist <br/> American Family Insurance"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/keji-data-science/"]
+      ]
+    
+    [[params.team.members]]
       img = "Natalie_Rubenstein.jpg"
       name = "Natalie Rubenstein"
       position = "WiDS Ambassador"
