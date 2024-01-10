@@ -150,7 +150,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # include botht the account and event in a string, seperated by /, with no spaces
 
   [params.eventbrite]
-    enable = true
+    enable = false
     title = "Register"
     subtitle = "Coming Soon"
     bg = true
@@ -203,7 +203,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Talk [Portfolio] section
   [params.portfolio]
-    enable =false
+    enable = false
     # All projects defined in their own files. You can find example projects
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
@@ -220,7 +220,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Schedule section
   [params.schedule]
-    enable = true
+    enable = false
     title = "Schedule"
     bg = false
 
@@ -408,7 +408,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     enable = true
     title = "Have a question about WiDS Chicago ? "
     buttonText = "Send message!"
-    #netlify = true
+    #netlify = false
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
