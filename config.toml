@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://widschicago.org/" # Change this to the base url after netlify deploy, e.g. "https://cardiff2019.satrdays.org/"
 languageCode = "en-us"
-title = "WiDS Chicago "
+title = "Women in Data Science (WiDS) Chicago"
 theme = ["hugo-satrdays-theme", "hugo-agency-theme"]
 
 # Enter your tracking code to enable Google Analytics
