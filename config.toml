@@ -20,7 +20,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
-  name = "WiDS Chicago "
+  name = "Women in Data Science (WiDS) Chicago"
   description = "A conference showcasing women data scientists in Chicago"
   # email = "your@email.com"
 
