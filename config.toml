@@ -297,6 +297,16 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
 
       ]
+      
+    [[params.team.members]]
+      img = "Anna_Hazard.jpg"
+      name = "Anna Hazard"
+      position = "WiDS Ambassador"
+      bio = """Advisory AI Engineer <br/> IBM"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/anna-hazard/"]
+      ]
+      
     [[params.team.members]]
       img = "ke_ji.jpg"
       name = "Ke Ji"
@@ -315,8 +325,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/natalie-rubenstein-41103b56/"]
       ]
              [[params.team.members]]
-      img = "Lovedeep_Sani.jpg"
-      name = "Lovedeep Sani"
+      img = "Lovedeep_Saini.jpg"
+      name = "Lovedeep Saini"
       position = "WiDS Ambassador"
       bio = """Data Science Manager <br/> Gallagher"""
       social = [
