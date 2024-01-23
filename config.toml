@@ -314,6 +314,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/natalie-rubenstein-41103b56/"]
       ]
+             [[params.team.members]]
+      img = "Lovedeep_Sani.jpg"
+      name = "Lovedeep Sani"
+      position = "WiDS Ambassador"
+      bio = """Data Science Manager <br/> Gallagher"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/lovedeep-kaur-saini/"]
+      ]
          [[params.team.members]]
       img = "Mena_headshot.jpg"
       name = "Mena Whalen"
@@ -326,7 +334,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
       [[params.team.members]]
-      img = "maggie_wolff.jfif"
+      img = "Maggie_Wolff.jpg"
       name = "Maggie Wolff"
       position = "WiDS Ambassador"
       # For bio markdown and even multiline strings are available.
