@@ -297,8 +297,18 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
 
       ]
+
       
     [[params.team.members]]
+      img = "Gomez_Norma.jpg"
+      name = "Norma Gomez"
+      position = "WiDS Ambassador"
+      bio = """Manager of Data Visualization <br/> Gobel"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/anna-hazard/"]
+      ]
+      
+      [[params.team.members]]
       img = "Anna_Hazard.jpg"
       name = "Anna Hazard"
       position = "WiDS Ambassador"
