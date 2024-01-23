@@ -406,8 +406,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 
   [[params.clients]]
-      logo = "chicago_ASA.jpg"
-      link = "https://community.amstat.org/chicagochapter/home"
+      logo = "Amfam DSAL.png"
+      link = "https://amfamlabs.com/"
 
       [[params.clients]]
       logo = "burtchworks.png"
