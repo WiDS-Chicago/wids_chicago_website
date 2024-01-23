@@ -289,7 +289,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
 
       [[params.team.members]]
-      img = "angelina_leigh.jpg"
+      img = "Angelina_Leigh.jpg"
       name = "Angelina Leigh"
       position = "WiDS Ambassador, Chicago Event Chair"
       bio = """Solutions Architect <br/> Databricks"""
