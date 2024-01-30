@@ -87,7 +87,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # To change the background image of the hero, replace 'header-bg.jpg' in
     # the 'static/img' folder.
     title = "Women in Data Science Chicago"
-    subtitle = "A conference showcasing women data scientists in Chicago in March 2024"
+    subtitle = "A conference showcasing women data scientists in Chicago on March 21, 2024"
     bg = true
     buttonText = "Tell me more"
 
@@ -103,14 +103,14 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.services.row.list]]
       icon = "fa-clock-o"
       title = "Details"
-      description = "March 2024 - exact date TBD"
+      description = "Thursday, March 21, 2024"
       url = "#schedule"
 
     [[params.services.row.list]]
       icon = "fa-laptop"
       title = "Location"
-      description = "Downtown Chicago - exact location TBD"
-      url = ""
+      description = "1871 at the Merchandise Mart"
+      url = "https://maps.app.goo.gl/ZFfDBrf3E6pQwbtX9"
 
     [[params.services.row.list]]
       icon = "fa-universal-access"
