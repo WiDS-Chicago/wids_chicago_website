@@ -51,7 +51,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.navigation]
     brand = "satRday"
     # Optional logo as brand stored in img/
-    logo = "wids_chicago_logo.jpg"
+    logo = "WiDS-line1-3.png"
     services = "About"
     portfolio = "Talks"
     #hackathon = "Datathon"
