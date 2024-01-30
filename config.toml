@@ -379,49 +379,42 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your clients's logos.
     # Suggestion: .svg in the size of 280px*80px looks good
 
-      [[params.clients]]
-      logo = "roosevelt-logo.jpg"
-      link = "https://www.roosevelt.edu/"
-      
-      [[params.clients]]
-      logo = "depaul.png"
-      link = "https://www.cdm.depaul.edu/academics/pages/MS-in-Data-Science.aspx"
-      
-      [[params.clients]]
+[[params.clients]]
+      logo = "Amfam DSAL.png"
+      link = "https://amfamlabs.com/"
+
+[[params.clients]]
+      logo = "burtchworks.png"
+      link = "https://www.burtchworks.com/"
+
+[[params.clients]]
       logo = "highmark.png"
       link = "https://www.highmarkhealth.org/hmk/index.shtml"
 
-    #    [[params.clients]]
-    #  logo = "CRUG_logo.png"
-    #  link = "https://chicago-r-user-group.github.io/"
 
-
-    [[params.clients]]
+      
+[[params.clients]]
+      logo = "roosevelt-logo.jpg"
+      link = "https://www.roosevelt.edu/"
+      
+[[params.clients]]
+      logo = "depaul.png"
+      link = "https://www.cdm.depaul.edu/academics/pages/MS-in-Data-Science.aspx"
+      
+[[params.clients]]
       logo = "dsi.png"
       link = "http://datascience.uchicago.edu/"
 
-
-    [[params.clients]]
+[[params.clients]]
       logo = "uchi-stat.png"
       link = "https://stat.uchicago.edu//"
 
-    #[[params.clients]]
-    #  logo = "uchi_cs_logo.png"
-    #  link = "https://cst.uchicago.edu//"
-
-
-    [[params.clients]]
+[[params.clients]]
       logo = "loyola_uni_logo.png"
       link = "https://www.luc.edu/math/index.shtml"
 
 
-  [[params.clients]]
-      logo = "Amfam DSAL.png"
-      link = "https://amfamlabs.com/"
 
-      [[params.clients]]
-      logo = "burtchworks.png"
-      link = "https://www.burtchworks.com/"
 
 
 
