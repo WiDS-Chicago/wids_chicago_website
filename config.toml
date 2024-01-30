@@ -334,13 +334,21 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/natalie-rubenstein-41103b56/"]
       ]
-             [[params.team.members]]
+  [[params.team.members]]
       img = "Lovedeep_Saini.jpg"
       name = "Lovedeep Saini"
       position = "WiDS Ambassador"
       bio = """Data Science Manager <br/> Gallagher"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/lovedeep-kaur-saini/"]
+      ]
+  [[params.team.members]]
+      img = "Raffaella_Settimi .jpg"
+      name = "Raffaella Settimi "
+      position = "WiDS Ambassador"
+      bio = """Associate Dean, College of Computing and Digital Media <br/> DePaul University"""
+      social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/raffaella-settimi-657b735/"]
       ]
          [[params.team.members]]
       img = "Mena_headshot.jpg"
