@@ -1,6 +1,8 @@
 modalID: 6
-title: "**Panel discussion** - Topic & Panelsts TBD"  
-subtitle: "First Subtitle"
+title: "**Panel**  <ul> <li>  
+Panelists TBD </li><li>  
+Moderator TBD </li> "
+subtitle: ""
 date: 
 startsAt: 6:30
 endsAt: 7:00
