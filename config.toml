@@ -398,12 +398,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[params.clients]]
       logo = "highmark.png"
       link = "https://www.highmarkhealth.org/hmk/index.shtml"
-
-
       
 [[params.clients]]
-      logo = "roosevelt-logo.jpg"
-      link = "https://www.roosevelt.edu/"
+      logo = "CompTIA.png"
+      link = "https://www.comptia.org"
       
 [[params.clients]]
       logo = "depaul.png"
