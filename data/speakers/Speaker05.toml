@@ -1,0 +1,7 @@
+img = "Naomi_Kaduwela.jfif"
+name = "Naomi Kaduwela"
+organisation = "Kavi Global"
+role = "Head of Kavi Labs and Value Engineering"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/naomikaduwela/"]
+      ]
