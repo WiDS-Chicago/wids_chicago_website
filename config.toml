@@ -295,10 +295,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       bio = """Solutions Architect <br/> Databricks"""
       social = [
         ["fa-linkedin", "https://www.linkedin.com/in/angelina-maria-leigh-254506134/"],
-
       ]
 
-      
     [[params.team.members]]
       img = "Gomez_Norma.jpg"
       name = "Norma Gomez"
@@ -359,7 +357,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
         ["fa-linkedin", "https://www.linkedin.com/in/mena-whalen-07290b174"],
         ["fa-rss", "https://menawhalen.com/"]
       ]
-
 
       [[params.team.members]]
       img = "Maggie_Wolff.jpg"
