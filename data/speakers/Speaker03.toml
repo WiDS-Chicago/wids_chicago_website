@@ -1,7 +1,7 @@
-img = "speaker-placeholder.jpg"
-name = "More Speakers Coming Soon"
-organisation = ""
-role = ""
+img = "Aramide_Kehinde.jfif"
+name = "Aramide Kehinde"
+organisation = "Amazon Web Services (AWS)"
+role = "Artificial Intelligence Lead"
 social = [
-        ["fa-linkedin", ""]
+        ["fa-linkedin", "https://www.linkedin.com/in/aramide-kehinde-13387914/"]
       ]
