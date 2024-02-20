@@ -1,0 +1,7 @@
+img = "Teodora_Szasze.jfif"
+name = "Teodora Szasz"
+organisation = "Philips"
+role = "Senior Clinical Data Scientist - Cardiac Imaging"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/teodoraszasz/"]
+      ]
