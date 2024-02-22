@@ -401,7 +401,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       link = "https://www.comptia.org"
 
 [[params.clients]]
-      logo = "one-six.png"
+      logo = "onesix-logo.png"
       link = "https://www.onesixsolutions.com/"
       
 [[params.clients]]
