@@ -399,6 +399,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[params.clients]]
       logo = "CompTIA.png"
       link = "https://www.comptia.org"
+
+[[params.clients]]
+      logo = "one-six.png"
+      link = "https://www.onesixsolutions.com/"
       
 [[params.clients]]
       logo = "depaul.png"
@@ -415,6 +419,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [[params.clients]]
       logo = "loyola_uni_logo.png"
       link = "https://www.luc.edu/math/index.shtml"
+
+[[params.clients]]
+      logo = "roosevelt-logo.jpg"
+      link = "https://www.roosevelt.edu/"
 
 
 
