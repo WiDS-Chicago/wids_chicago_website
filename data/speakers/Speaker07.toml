@@ -1,0 +1,8 @@
+img = "Patricia_Chiril.png"
+name = "Patricia Chiril"
+organisation = "University of Chicago"
+role = "Postdoctoral Scholar, Data Science Institute"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/patricia-chiril-27062298/"], 
+        ["fa-globe", "https://datascience.uchicago.edu/people/patricia-chiril/"]
+      ]
