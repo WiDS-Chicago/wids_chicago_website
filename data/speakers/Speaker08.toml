@@ -1,0 +1,7 @@
+img = "JPocahontas_Olson.jfif"
+name = "J. Pocahontas Olson"
+organisation = "American Family Insurance's Data Science and Analytics Lab"
+role = "Senior Data Scientist"
+social = [
+        ["fa-linkedin", "https://www.linkedin.com/in/j-pocahontas-olson-8618733b/"]
+      ]
