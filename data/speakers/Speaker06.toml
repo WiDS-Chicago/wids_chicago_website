@@ -1,7 +1,7 @@
-img = "Callista_Christ.jfif"
-name = "Callista Christ"
-organisation = "OCC"
-role = "Senior Associate, Data Analytics Engineering"
+img = "Serena_Huang.jfif"
+name = "Serena Huang, PhD"
+organisation = "ABE.work"
+role = "Chief Data Officer"
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/callista-christ/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/serenahhuangphd/"]
       ]
