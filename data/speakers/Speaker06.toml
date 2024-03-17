@@ -3,5 +3,6 @@ name = "Serena Huang, PhD"
 organisation = "ABE.work"
 role = "Chief Data Officer"
 social = [
-        ["fa-linkedin", "https://www.linkedin.com/in/serenahhuangphd/"]
+        ["fa-linkedin", "https://www.linkedin.com/in/serenahhuangphd/"], 
+        ["fa-globe", "https://www.datawithserena.com/"]
       ]
