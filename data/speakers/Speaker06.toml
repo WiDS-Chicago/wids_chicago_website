@@ -1,7 +1,7 @@
 img = "Serena_Huang.jfif"
 name = "Serena Huang"
-organisation = "ABE.work"
-role = "Chief Data Officer"
+organisation = "Data with Serena"
+role = "Founder"
 social = [
         ["fa-linkedin", "https://www.linkedin.com/in/serenahhuangphd/"], 
         ["fa-globe", "https://www.datawithserena.com/"]
